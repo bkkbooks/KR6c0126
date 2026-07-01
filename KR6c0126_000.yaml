@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0126/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大般若波羅蜜多經般若理趣分述讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1695.xml
+    old_id: T33n1695
+hash: sha256:ab2fef6f092a1bd79aa3eeda6f144c16405e7f173e75603d930bafbe9b2a8204

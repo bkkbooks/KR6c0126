@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0126_000.yaml, hash: 'sha256:ab2fef6f092a1bd79aa3eeda6f144c16405e7f173e75603d930bafbe9b2a8204'}
-  - {seq: 1, filename: KR6c0126_001.yaml, hash: 'sha256:de88f1995e1689ed5d899de566a0916134a33e64d6539f8e4f93dd5277fd5845'}
-  - {seq: 2, filename: KR6c0126_002.yaml, hash: 'sha256:2665b7ad88370dd3d312171272a92ac6456be0d49a6670b8d64acb9e7d5cd183'}
-  - {seq: 3, filename: KR6c0126_003.yaml, hash: 'sha256:44d16b6d9e51c76097f6f63ba697b72e3116590dacbb1cec77508b27aa6f506b'}
+  - {seq: 1, filename: KR6c0126_001.yaml, hash: 'sha256:02967cf727e44bfb8dda49772e5501770b21529875bfc6eb330cbea3d0e7927e'}
+  - {seq: 2, filename: KR6c0126_002.yaml, hash: 'sha256:1d2ce391dc33cb035cf19b1f621f385f598dddce02f8f6150d74e84bc8486da4'}
+  - {seq: 3, filename: KR6c0126_003.yaml, hash: 'sha256:2f89b7393a3c0c8615564936b986e0a7738c34b42ea2ca0e4928bffc9e1e0ad3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0126_001.markers.yaml, hash: 'sha256:594be87203477f6eccfa8e4b7f0abc84988ac777004fd71eb1046d1553361d12'}
-  - {seq: 2, role: markers, filename: assets/KR6c0126_002.markers.yaml, hash: 'sha256:0947d1263ab09dc6ea8b9ed2e6a35601dfa8e7af4b52b6df84934680e846c574'}
-  - {seq: 3, role: markers, filename: assets/KR6c0126_003.markers.yaml, hash: 'sha256:15a28940d691d906a60f9c39a1fc89ca559f6e21ab96d6fec01fa6a35b0dfdb7'}
+  - {seq: 0, role: markers, filename: assets/KR6c0126_000.markers.yaml, hash: 'sha256:33ac66fa05124efaa194740f58745fea1417536c75c14ebb50600582a49de2d4'}
+  - {seq: 1, role: markers, filename: assets/KR6c0126_001.markers.yaml, hash: 'sha256:31a2e204fc0f5c3007dd7284d417dc012aa76e171add3602710cdbd9778f215e'}
+  - {seq: 2, role: markers, filename: assets/KR6c0126_002.markers.yaml, hash: 'sha256:53e03da75c64fc951e2a9bb9ac9ce3fbed44b75e56112cc9229b5fb2fecc88e7'}
+  - {seq: 3, role: markers, filename: assets/KR6c0126_003.markers.yaml, hash: 'sha256:9ee3b4d6124dd8cfae36357f935d0ecbd57c5b0f7a85ae90f4869cce12bd56b3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -69,7 +70,4 @@ table_of_contents:
     述讚卷第三'
   type: juan
   level: 1
-hash: sha256:8d04351eef99cc94f12f267fd607d55f05c3bccdb4bf3afaeb3c6b6458163e0a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cab6af7981699deea6936cfa6840f1f03f64bbe70d716a9f7d1c79e3ca7d9834
